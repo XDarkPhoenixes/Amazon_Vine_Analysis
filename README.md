@@ -31,4 +31,4 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 
 ## Summary
 
-There could be bias among this 'star ratings' system since there are more five-star reviews amongst vine reviews than non-vine reviews. However, the number of non-Vine reviews is significantly more than Vine reviews. 
+There could be bias among this 'star ratings' system since there are more five-star reviews amongst vine reviews than non-vine reviews. However, the number of non-Vine reviews is significantly more than Vine reviews. Additional statistic test such as t-test or ANOVA test could be use to prove bias.
